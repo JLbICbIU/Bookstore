@@ -1,0 +1,2878 @@
+<?xml version="1.0"?>
+<purchases>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>245</book_id>
+		<buy_date>2018-12-30 17:09:58</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>370</book_id>
+		<buy_date>2018-12-24 02:28:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>659</book_id>
+		<buy_date>2018-12-08 15:48:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>836</book_id>
+		<buy_date>2019-01-25 13:12:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>868</book_id>
+		<buy_date>2019-04-11 13:48:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>921</book_id>
+		<buy_date>2019-01-25 19:51:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>945</book_id>
+		<buy_date>2018-02-06 23:53:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>1</user_id>
+		<book_id>1171</book_id>
+		<buy_date>2018-01-24 08:17:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>2</user_id>
+		<book_id>454</book_id>
+		<buy_date>2018-01-01 00:06:05</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>2</user_id>
+		<book_id>464</book_id>
+		<buy_date>2018-04-27 22:55:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>2</user_id>
+		<book_id>732</book_id>
+		<buy_date>2019-01-11 22:40:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>2</user_id>
+		<book_id>1060</book_id>
+		<buy_date>2019-01-08 06:52:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>2</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2019-01-15 01:23:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>2</user_id>
+		<book_id>1271</book_id>
+		<buy_date>2018-04-12 23:44:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>3</user_id>
+		<book_id>340</book_id>
+		<buy_date>2019-01-01 01:27:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>3</user_id>
+		<book_id>1142</book_id>
+		<buy_date>2019-01-01 01:17:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>3</user_id>
+		<book_id>1224</book_id>
+		<buy_date>2018-03-02 18:30:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>4</user_id>
+		<book_id>1142</book_id>
+		<buy_date>2019-01-21 18:06:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>5</user_id>
+		<book_id>921</book_id>
+		<buy_date>2019-01-20 12:38:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>5</user_id>
+		<book_id>1142</book_id>
+		<buy_date>2019-01-04 18:56:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>5</user_id>
+		<book_id>1296</book_id>
+		<buy_date>2018-04-19 09:23:08</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>6</user_id>
+		<book_id>705</book_id>
+		<buy_date>2019-01-08 16:49:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>6</user_id>
+		<book_id>921</book_id>
+		<buy_date>2019-01-29 07:20:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>7</user_id>
+		<book_id>705</book_id>
+		<buy_date>2019-01-29 11:37:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>7</user_id>
+		<book_id>863</book_id>
+		<buy_date>2018-07-23 16:15:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>7</user_id>
+		<book_id>921</book_id>
+		<buy_date>2019-01-02 14:27:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>7</user_id>
+		<book_id>1003</book_id>
+		<buy_date>2018-07-17 10:46:03</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>7</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2019-01-21 18:54:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>7</user_id>
+		<book_id>1432</book_id>
+		<buy_date>2019-01-15 01:58:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>8</user_id>
+		<book_id>322</book_id>
+		<buy_date>2018-01-18 19:08:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>8</user_id>
+		<book_id>836</book_id>
+		<buy_date>2019-01-03 21:33:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>8</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2019-01-05 11:43:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>8</user_id>
+		<book_id>1432</book_id>
+		<buy_date>2019-01-11 14:54:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>9</user_id>
+		<book_id>157</book_id>
+		<buy_date>2018-03-01 20:19:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>9</user_id>
+		<book_id>336</book_id>
+		<buy_date>2019-01-10 08:57:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>9</user_id>
+		<book_id>340</book_id>
+		<buy_date>2019-01-18 02:56:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>9</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2019-01-01 13:43:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>10</user_id>
+		<book_id>718</book_id>
+		<buy_date>2018-10-16 09:05:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>10</user_id>
+		<book_id>921</book_id>
+		<buy_date>2019-01-06 22:37:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>10</user_id>
+		<book_id>1244</book_id>
+		<buy_date>2019-01-23 13:51:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>11</user_id>
+		<book_id>323</book_id>
+		<buy_date>2019-01-02 21:52:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>11</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-23 00:14:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>11</user_id>
+		<book_id>775</book_id>
+		<buy_date>2018-12-19 04:59:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>11</user_id>
+		<book_id>1244</book_id>
+		<buy_date>2019-01-13 00:46:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>12</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-13 16:52:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>12</user_id>
+		<book_id>945</book_id>
+		<buy_date>2018-02-06 23:53:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>12</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2019-01-22 20:25:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>13</user_id>
+		<book_id>245</book_id>
+		<buy_date>2018-10-20 20:53:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>13</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-29 17:50:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>13</user_id>
+		<book_id>1192</book_id>
+		<buy_date>2018-07-15 18:41:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>13</user_id>
+		<book_id>1320</book_id>
+		<buy_date>2018-12-20 08:23:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>14</user_id>
+		<book_id>344</book_id>
+		<buy_date>2018-10-29 11:16:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>14</user_id>
+		<book_id>732</book_id>
+		<buy_date>2019-01-12 15:49:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>14</user_id>
+		<book_id>1050</book_id>
+		<buy_date>2019-01-11 19:35:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>14</user_id>
+		<book_id>1060</book_id>
+		<buy_date>2019-01-31 11:37:58</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>15</user_id>
+		<book_id>72</book_id>
+		<buy_date>2018-03-11 10:49:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>15</user_id>
+		<book_id>609</book_id>
+		<buy_date>2018-01-08 15:27:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>15</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-01 18:28:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>15</user_id>
+		<book_id>964</book_id>
+		<buy_date>2018-11-27 05:02:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>15</user_id>
+		<book_id>1035</book_id>
+		<buy_date>2019-01-21 23:06:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>15</user_id>
+		<book_id>1050</book_id>
+		<buy_date>2019-01-11 15:53:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>16</user_id>
+		<book_id>732</book_id>
+		<buy_date>2019-01-01 17:47:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>16</user_id>
+		<book_id>1060</book_id>
+		<buy_date>2019-01-30 05:20:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>17</user_id>
+		<book_id>336</book_id>
+		<buy_date>2019-01-06 17:33:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>17</user_id>
+		<book_id>836</book_id>
+		<buy_date>2019-01-21 01:50:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>17</user_id>
+		<book_id>1035</book_id>
+		<buy_date>2019-01-30 03:42:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>18</user_id>
+		<book_id>272</book_id>
+		<buy_date>2018-03-06 06:24:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>18</user_id>
+		<book_id>489</book_id>
+		<buy_date>2018-02-02 12:04:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>18</user_id>
+		<book_id>587</book_id>
+		<buy_date>2018-06-19 19:03:58</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>18</user_id>
+		<book_id>700</book_id>
+		<buy_date>2018-02-17 03:53:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>18</user_id>
+		<book_id>959</book_id>
+		<buy_date>2018-03-05 22:48:13</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>19</user_id>
+		<book_id>323</book_id>
+		<buy_date>2019-01-13 16:10:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>19</user_id>
+		<book_id>732</book_id>
+		<buy_date>2019-01-04 01:43:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>19</user_id>
+		<book_id>889</book_id>
+		<buy_date>2018-01-04 07:58:05</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>20</user_id>
+		<book_id>452</book_id>
+		<buy_date>2018-09-26 22:03:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>356</book_id>
+		<buy_date>2018-04-01 04:28:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>626</book_id>
+		<buy_date>2018-03-19 13:39:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>732</book_id>
+		<buy_date>2019-01-15 08:53:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-25 23:26:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>755</book_id>
+		<buy_date>2018-05-26 20:09:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>1060</book_id>
+		<buy_date>2018-01-08 06:52:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>22</user_id>
+		<book_id>1316</book_id>
+		<buy_date>2018-05-10 15:46:08</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>24</user_id>
+		<book_id>1060</book_id>
+		<buy_date>2018-10-15 10:59:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>25</user_id>
+		<book_id>401</book_id>
+		<buy_date>2018-02-06 21:33:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>25</user_id>
+		<book_id>1142</book_id>
+		<buy_date>2018-01-04 18:56:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>25</user_id>
+		<book_id>1345</book_id>
+		<buy_date>2019-01-08 21:42:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>26</user_id>
+		<book_id>705</book_id>
+		<buy_date>2018-01-08 16:49:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>27</user_id>
+		<book_id>921</book_id>
+		<buy_date>2018-01-02 14:27:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>112</book_id>
+		<buy_date>2018-06-23 23:29:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>732</book_id>
+		<buy_date>2019-01-17 22:41:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>836</book_id>
+		<buy_date>2018-01-03 21:33:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>1050</book_id>
+		<buy_date>2019-01-27 23:20:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2018-01-05 11:43:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>1177</book_id>
+		<buy_date>2018-03-30 01:55:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>28</user_id>
+		<book_id>1315</book_id>
+		<buy_date>2018-01-21 04:41:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>29</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-20 17:34:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>29</user_id>
+		<book_id>949</book_id>
+		<buy_date>2018-04-28 09:01:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>29</user_id>
+		<book_id>1070</book_id>
+		<buy_date>2018-01-01 13:43:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>29</user_id>
+		<book_id>1115</book_id>
+		<buy_date>2018-07-15 16:25:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>29</user_id>
+		<book_id>1345</book_id>
+		<buy_date>2019-01-20 18:43:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>29</user_id>
+		<book_id>1448</book_id>
+		<buy_date>2018-03-16 08:57:02</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>30</user_id>
+		<book_id>249</book_id>
+		<buy_date>2018-12-29 03:04:29</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>30</user_id>
+		<book_id>424</book_id>
+		<buy_date>2018-04-11 13:29:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>30</user_id>
+		<book_id>738</book_id>
+		<buy_date>2019-01-27 15:15:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>30</user_id>
+		<book_id>1142</book_id>
+		<buy_date>2019-01-21 16:41:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>31</user_id>
+		<book_id>428</book_id>
+		<buy_date>2018-09-08 03:35:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>31</user_id>
+		<book_id>1301</book_id>
+		<buy_date>2018-05-07 23:55:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>31</user_id>
+		<book_id>1311</book_id>
+		<buy_date>2018-03-09 16:20:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>32</user_id>
+		<book_id>162</book_id>
+		<buy_date>2018-04-19 03:14:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>33</user_id>
+		<book_id>624</book_id>
+		<buy_date>2018-07-22 18:11:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>33</user_id>
+		<book_id>791</book_id>
+		<buy_date>2018-02-19 17:55:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>33</user_id>
+		<book_id>833</book_id>
+		<buy_date>2018-06-14 14:24:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>33</user_id>
+		<book_id>1159</book_id>
+		<buy_date>2018-02-27 21:55:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>34</user_id>
+		<book_id>342</book_id>
+		<buy_date>2018-06-25 12:09:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>34</user_id>
+		<book_id>1186</book_id>
+		<buy_date>2018-02-28 22:55:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>35</user_id>
+		<book_id>214</book_id>
+		<buy_date>2018-09-11 21:51:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>36</user_id>
+		<book_id>1132</book_id>
+		<buy_date>2018-12-21 04:24:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>37</user_id>
+		<book_id>126</book_id>
+		<buy_date>2018-12-23 17:06:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>37</user_id>
+		<book_id>248</book_id>
+		<buy_date>2018-08-09 12:57:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>38</user_id>
+		<book_id>811</book_id>
+		<buy_date>2018-10-28 23:52:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>38</user_id>
+		<book_id>1238</book_id>
+		<buy_date>2018-03-07 14:49:09</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>40</user_id>
+		<book_id>76</book_id>
+		<buy_date>2018-10-20 02:57:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>40</user_id>
+		<book_id>918</book_id>
+		<buy_date>2018-09-06 12:06:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>42</user_id>
+		<book_id>926</book_id>
+		<buy_date>2018-11-25 01:24:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>43</user_id>
+		<book_id>201</book_id>
+		<buy_date>2018-03-28 16:54:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>43</user_id>
+		<book_id>220</book_id>
+		<buy_date>2018-07-04 01:53:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>43</user_id>
+		<book_id>599</book_id>
+		<buy_date>2018-12-09 07:22:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>43</user_id>
+		<book_id>846</book_id>
+		<buy_date>2018-05-10 22:46:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>44</user_id>
+		<book_id>725</book_id>
+		<buy_date>2018-09-29 04:36:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>45</user_id>
+		<book_id>416</book_id>
+		<buy_date>2018-03-04 18:55:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>45</user_id>
+		<book_id>622</book_id>
+		<buy_date>2018-07-12 21:52:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>45</user_id>
+		<book_id>1191</book_id>
+		<buy_date>2018-04-22 01:13:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>46</user_id>
+		<book_id>606</book_id>
+		<buy_date>2018-09-14 17:41:13</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>46</user_id>
+		<book_id>633</book_id>
+		<buy_date>2018-06-20 12:03:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>46</user_id>
+		<book_id>797</book_id>
+		<buy_date>2018-12-24 13:32:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>48</user_id>
+		<book_id>467</book_id>
+		<buy_date>2018-02-28 21:15:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>48</user_id>
+		<book_id>637</book_id>
+		<buy_date>2018-06-01 20:13:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>48</user_id>
+		<book_id>670</book_id>
+		<buy_date>2018-07-05 06:15:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>48</user_id>
+		<book_id>1255</book_id>
+		<buy_date>2018-07-03 03:46:09</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>49</user_id>
+		<book_id>1092</book_id>
+		<buy_date>2018-08-26 16:40:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>51</user_id>
+		<book_id>294</book_id>
+		<buy_date>2018-12-14 01:04:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>51</user_id>
+		<book_id>895</book_id>
+		<buy_date>2018-07-12 15:50:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>51</user_id>
+		<book_id>1383</book_id>
+		<buy_date>2018-06-02 08:17:29</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>52</user_id>
+		<book_id>1305</book_id>
+		<buy_date>2018-08-23 00:42:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>52</user_id>
+		<book_id>1409</book_id>
+		<buy_date>2018-11-30 18:41:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>53</user_id>
+		<book_id>202</book_id>
+		<buy_date>2018-04-02 06:25:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>55</user_id>
+		<book_id>1205</book_id>
+		<buy_date>2018-05-24 11:21:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>55</user_id>
+		<book_id>1440</book_id>
+		<buy_date>2018-01-14 06:44:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>56</user_id>
+		<book_id>536</book_id>
+		<buy_date>2018-08-25 02:22:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>56</user_id>
+		<book_id>872</book_id>
+		<buy_date>2018-07-13 15:26:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>56</user_id>
+		<book_id>1208</book_id>
+		<buy_date>2018-08-03 05:51:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>57</user_id>
+		<book_id>142</book_id>
+		<buy_date>2018-10-20 18:30:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>57</user_id>
+		<book_id>237</book_id>
+		<buy_date>2018-03-10 09:32:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>58</user_id>
+		<book_id>436</book_id>
+		<buy_date>2018-08-05 00:20:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>58</user_id>
+		<book_id>1020</book_id>
+		<buy_date>2018-10-20 21:13:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>59</user_id>
+		<book_id>452</book_id>
+		<buy_date>2018-08-21 17:53:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>60</user_id>
+		<book_id>826</book_id>
+		<buy_date>2018-11-02 06:38:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>61</user_id>
+		<book_id>381</book_id>
+		<buy_date>2018-02-23 04:53:31</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>61</user_id>
+		<book_id>1112</book_id>
+		<buy_date>2018-04-03 06:57:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>62</user_id>
+		<book_id>837</book_id>
+		<buy_date>2018-01-29 09:38:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>66</user_id>
+		<book_id>126</book_id>
+		<buy_date>2018-01-09 19:32:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>66</user_id>
+		<book_id>1238</book_id>
+		<buy_date>2018-07-29 04:54:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>66</user_id>
+		<book_id>1424</book_id>
+		<buy_date>2018-03-22 16:45:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>67</user_id>
+		<book_id>60</book_id>
+		<buy_date>2018-07-26 03:06:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>67</user_id>
+		<book_id>269</book_id>
+		<buy_date>2018-07-09 05:38:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>67</user_id>
+		<book_id>802</book_id>
+		<buy_date>2018-06-10 23:46:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>67</user_id>
+		<book_id>830</book_id>
+		<buy_date>2018-06-03 16:56:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>68</user_id>
+		<book_id>997</book_id>
+		<buy_date>2018-01-20 20:49:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>69</user_id>
+		<book_id>265</book_id>
+		<buy_date>2018-10-18 11:58:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>69</user_id>
+		<book_id>868</book_id>
+		<buy_date>2018-10-13 14:37:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>70</user_id>
+		<book_id>350</book_id>
+		<buy_date>2018-08-20 19:14:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>70</user_id>
+		<book_id>453</book_id>
+		<buy_date>2018-04-18 19:35:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>71</user_id>
+		<book_id>1040</book_id>
+		<buy_date>2018-10-10 08:04:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>72</user_id>
+		<book_id>169</book_id>
+		<buy_date>2018-11-08 16:22:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>72</user_id>
+		<book_id>270</book_id>
+		<buy_date>2018-11-21 10:28:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>72</user_id>
+		<book_id>838</book_id>
+		<buy_date>2018-07-17 11:58:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>73</user_id>
+		<book_id>307</book_id>
+		<buy_date>2018-12-16 15:55:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>74</user_id>
+		<book_id>411</book_id>
+		<buy_date>2018-01-08 08:03:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>74</user_id>
+		<book_id>493</book_id>
+		<buy_date>2018-11-12 13:46:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>74</user_id>
+		<book_id>852</book_id>
+		<buy_date>2018-09-24 17:57:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>75</user_id>
+		<book_id>451</book_id>
+		<buy_date>2018-05-13 13:20:13</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>75</user_id>
+		<book_id>1314</book_id>
+		<buy_date>2018-10-21 00:14:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>76</user_id>
+		<book_id>1330</book_id>
+		<buy_date>2018-05-21 13:09:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>78</user_id>
+		<book_id>189</book_id>
+		<buy_date>2018-09-19 19:05:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>78</user_id>
+		<book_id>629</book_id>
+		<buy_date>2018-10-26 09:10:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>79</user_id>
+		<book_id>110</book_id>
+		<buy_date>2018-08-28 21:25:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>79</user_id>
+		<book_id>1247</book_id>
+		<buy_date>2018-06-05 13:44:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>79</user_id>
+		<book_id>1262</book_id>
+		<buy_date>2018-12-25 16:05:58</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>80</user_id>
+		<book_id>42</book_id>
+		<buy_date>2018-04-10 07:09:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>80</user_id>
+		<book_id>379</book_id>
+		<buy_date>2018-05-20 08:06:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>80</user_id>
+		<book_id>394</book_id>
+		<buy_date>2018-10-06 18:46:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>81</user_id>
+		<book_id>763</book_id>
+		<buy_date>2018-11-02 20:54:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>81</user_id>
+		<book_id>789</book_id>
+		<buy_date>2018-02-15 01:01:03</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>81</user_id>
+		<book_id>835</book_id>
+		<buy_date>2018-01-01 09:09:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>82</user_id>
+		<book_id>110</book_id>
+		<buy_date>2018-12-01 03:50:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>83</user_id>
+		<book_id>829</book_id>
+		<buy_date>2018-10-15 08:10:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>85</user_id>
+		<book_id>939</book_id>
+		<buy_date>2018-12-05 22:16:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>85</user_id>
+		<book_id>971</book_id>
+		<buy_date>2018-01-10 17:52:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>85</user_id>
+		<book_id>1072</book_id>
+		<buy_date>2018-01-17 02:51:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>86</user_id>
+		<book_id>1402</book_id>
+		<buy_date>2018-03-09 07:20:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>87</user_id>
+		<book_id>267</book_id>
+		<buy_date>2018-04-08 07:02:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>87</user_id>
+		<book_id>1324</book_id>
+		<buy_date>2018-12-28 23:52:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>89</user_id>
+		<book_id>249</book_id>
+		<buy_date>2018-08-18 20:51:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>89</user_id>
+		<book_id>567</book_id>
+		<buy_date>2018-07-15 15:52:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>89</user_id>
+		<book_id>1286</book_id>
+		<buy_date>2018-04-22 16:38:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>90</user_id>
+		<book_id>417</book_id>
+		<buy_date>2018-09-23 13:48:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>90</user_id>
+		<book_id>437</book_id>
+		<buy_date>2018-04-28 17:25:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>91</user_id>
+		<book_id>352</book_id>
+		<buy_date>2018-01-23 09:59:08</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>91</user_id>
+		<book_id>1057</book_id>
+		<buy_date>2018-01-03 15:48:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>92</user_id>
+		<book_id>720</book_id>
+		<buy_date>2018-07-20 04:01:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>93</user_id>
+		<book_id>399</book_id>
+		<buy_date>2018-12-16 10:23:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>93</user_id>
+		<book_id>1034</book_id>
+		<buy_date>2018-06-21 21:40:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>94</user_id>
+		<book_id>339</book_id>
+		<buy_date>2018-05-10 10:31:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>94</user_id>
+		<book_id>563</book_id>
+		<buy_date>2018-05-23 22:46:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>95</user_id>
+		<book_id>617</book_id>
+		<buy_date>2018-08-23 08:51:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>96</user_id>
+		<book_id>1093</book_id>
+		<buy_date>2018-02-05 09:38:09</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>98</user_id>
+		<book_id>727</book_id>
+		<buy_date>2018-01-10 12:46:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>98</user_id>
+		<book_id>1424</book_id>
+		<buy_date>2018-12-23 01:59:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>99</user_id>
+		<book_id>55</book_id>
+		<buy_date>2018-05-08 07:17:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>99</user_id>
+		<book_id>621</book_id>
+		<buy_date>2018-07-28 16:59:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>99</user_id>
+		<book_id>880</book_id>
+		<buy_date>2018-02-17 07:25:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>100</user_id>
+		<book_id>612</book_id>
+		<buy_date>2018-07-11 17:29:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>102</user_id>
+		<book_id>55</book_id>
+		<buy_date>2018-05-15 19:36:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>102</user_id>
+		<book_id>275</book_id>
+		<buy_date>2018-05-29 21:49:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>103</user_id>
+		<book_id>4</book_id>
+		<buy_date>2018-08-15 21:25:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>103</user_id>
+		<book_id>370</book_id>
+		<buy_date>2018-12-24 02:28:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>103</user_id>
+		<book_id>699</book_id>
+		<buy_date>2018-04-24 14:31:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>103</user_id>
+		<book_id>739</book_id>
+		<buy_date>2018-03-20 16:50:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>103</user_id>
+		<book_id>867</book_id>
+		<buy_date>2018-02-16 20:55:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>105</user_id>
+		<book_id>1144</book_id>
+		<buy_date>2018-09-29 03:50:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>106</user_id>
+		<book_id>639</book_id>
+		<buy_date>2018-04-17 13:08:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>106</user_id>
+		<book_id>850</book_id>
+		<buy_date>2018-02-25 19:13:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>109</user_id>
+		<book_id>360</book_id>
+		<buy_date>2018-07-04 21:24:08</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>109</user_id>
+		<book_id>597</book_id>
+		<buy_date>2018-04-12 16:35:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>110</user_id>
+		<book_id>869</book_id>
+		<buy_date>2018-05-11 14:22:58</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>110</user_id>
+		<book_id>1175</book_id>
+		<buy_date>2018-09-08 13:42:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>110</user_id>
+		<book_id>1436</book_id>
+		<buy_date>2018-02-08 10:37:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>112</user_id>
+		<book_id>187</book_id>
+		<buy_date>2018-05-22 15:02:00</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>112</user_id>
+		<book_id>552</book_id>
+		<buy_date>2018-12-05 00:05:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>114</user_id>
+		<book_id>240</book_id>
+		<buy_date>2018-01-02 04:56:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>114</user_id>
+		<book_id>868</book_id>
+		<buy_date>2018-03-09 15:48:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>114</user_id>
+		<book_id>1025</book_id>
+		<buy_date>2018-05-23 09:22:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>115</user_id>
+		<book_id>674</book_id>
+		<buy_date>2018-02-12 07:19:09</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>116</user_id>
+		<book_id>177</book_id>
+		<buy_date>2018-03-30 11:08:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>116</user_id>
+		<book_id>282</book_id>
+		<buy_date>2018-04-13 11:29:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>117</user_id>
+		<book_id>205</book_id>
+		<buy_date>2018-08-18 07:37:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>117</user_id>
+		<book_id>824</book_id>
+		<buy_date>2018-08-14 08:14:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>119</user_id>
+		<book_id>406</book_id>
+		<buy_date>2018-02-04 19:03:05</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>120</user_id>
+		<book_id>685</book_id>
+		<buy_date>2018-07-24 07:56:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>120</user_id>
+		<book_id>938</book_id>
+		<buy_date>2018-06-09 08:56:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>121</user_id>
+		<book_id>172</book_id>
+		<buy_date>2018-04-28 01:09:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>121</user_id>
+		<book_id>494</book_id>
+		<buy_date>2018-06-30 18:04:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>121</user_id>
+		<book_id>1210</book_id>
+		<buy_date>2018-02-13 12:53:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>122</user_id>
+		<book_id>432</book_id>
+		<buy_date>2018-01-17 18:30:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>122</user_id>
+		<book_id>566</book_id>
+		<buy_date>2018-03-17 17:40:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>123</user_id>
+		<book_id>61</book_id>
+		<buy_date>2018-08-30 17:13:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>124</user_id>
+		<book_id>64</book_id>
+		<buy_date>2018-04-02 21:59:05</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>124</user_id>
+		<book_id>197</book_id>
+		<buy_date>2018-03-14 18:04:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>125</user_id>
+		<book_id>1278</book_id>
+		<buy_date>2018-10-21 18:50:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>126</user_id>
+		<book_id>250</book_id>
+		<buy_date>2018-06-30 09:09:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>126</user_id>
+		<book_id>724</book_id>
+		<buy_date>2018-03-02 19:40:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>126</user_id>
+		<book_id>985</book_id>
+		<buy_date>2018-05-20 13:41:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>127</user_id>
+		<book_id>604</book_id>
+		<buy_date>2018-10-29 08:10:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>128</user_id>
+		<book_id>394</book_id>
+		<buy_date>2018-11-23 19:02:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>128</user_id>
+		<book_id>1375</book_id>
+		<buy_date>2018-04-28 14:47:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>129</user_id>
+		<book_id>211</book_id>
+		<buy_date>2018-10-30 22:29:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>129</user_id>
+		<book_id>1431</book_id>
+		<buy_date>2018-01-30 21:46:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>130</user_id>
+		<book_id>483</book_id>
+		<buy_date>2018-02-27 07:22:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>130</user_id>
+		<book_id>947</book_id>
+		<buy_date>2018-05-08 02:23:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>131</user_id>
+		<book_id>468</book_id>
+		<buy_date>2018-03-21 18:38:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>131</user_id>
+		<book_id>1007</book_id>
+		<buy_date>2018-01-23 03:51:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>134</user_id>
+		<book_id>403</book_id>
+		<buy_date>2018-06-02 15:52:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>135</user_id>
+		<book_id>1276</book_id>
+		<buy_date>2018-11-11 01:06:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>136</user_id>
+		<book_id>1084</book_id>
+		<buy_date>2018-01-07 10:58:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>136</user_id>
+		<book_id>1336</book_id>
+		<buy_date>2018-05-29 23:06:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>137</user_id>
+		<book_id>495</book_id>
+		<buy_date>2018-05-04 14:46:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>137</user_id>
+		<book_id>796</book_id>
+		<buy_date>2018-06-01 01:57:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>137</user_id>
+		<book_id>1092</book_id>
+		<buy_date>2018-09-06 03:30:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>139</user_id>
+		<book_id>1086</book_id>
+		<buy_date>2018-08-14 03:37:02</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>139</user_id>
+		<book_id>1187</book_id>
+		<buy_date>2018-06-21 21:50:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>140</user_id>
+		<book_id>592</book_id>
+		<buy_date>2018-07-05 00:28:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>141</user_id>
+		<book_id>306</book_id>
+		<buy_date>2018-04-09 11:59:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>141</user_id>
+		<book_id>879</book_id>
+		<buy_date>2018-01-25 21:01:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>141</user_id>
+		<book_id>1371</book_id>
+		<buy_date>2018-11-27 16:53:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>142</user_id>
+		<book_id>65</book_id>
+		<buy_date>2018-02-25 20:22:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>144</user_id>
+		<book_id>188</book_id>
+		<buy_date>2018-05-25 19:57:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>145</user_id>
+		<book_id>1193</book_id>
+		<buy_date>2018-12-05 23:31:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>146</user_id>
+		<book_id>118</book_id>
+		<buy_date>2018-01-08 08:01:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>146</user_id>
+		<book_id>1048</book_id>
+		<buy_date>2018-02-26 15:16:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>147</user_id>
+		<book_id>139</book_id>
+		<buy_date>2018-06-15 22:08:09</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>147</user_id>
+		<book_id>699</book_id>
+		<buy_date>2018-06-01 17:18:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>149</user_id>
+		<book_id>842</book_id>
+		<buy_date>2018-10-19 09:47:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>151</user_id>
+		<book_id>557</book_id>
+		<buy_date>2018-03-11 04:42:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>152</user_id>
+		<book_id>495</book_id>
+		<buy_date>2018-09-17 17:36:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>152</user_id>
+		<book_id>928</book_id>
+		<buy_date>2018-03-27 17:19:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>152</user_id>
+		<book_id>1054</book_id>
+		<buy_date>2018-12-24 03:43:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>153</user_id>
+		<book_id>806</book_id>
+		<buy_date>2018-10-10 01:15:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>153</user_id>
+		<book_id>1230</book_id>
+		<buy_date>2018-08-11 06:21:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>154</user_id>
+		<book_id>1290</book_id>
+		<buy_date>2018-01-13 11:47:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>155</user_id>
+		<book_id>957</book_id>
+		<buy_date>2018-09-22 15:20:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>156</user_id>
+		<book_id>622</book_id>
+		<buy_date>2018-09-02 00:25:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>156</user_id>
+		<book_id>977</book_id>
+		<buy_date>2018-05-19 23:02:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>162</user_id>
+		<book_id>842</book_id>
+		<buy_date>2018-09-14 05:21:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>162</user_id>
+		<book_id>1195</book_id>
+		<buy_date>2018-11-21 11:46:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>164</user_id>
+		<book_id>259</book_id>
+		<buy_date>2018-02-28 08:48:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>164</user_id>
+		<book_id>363</book_id>
+		<buy_date>2018-04-03 10:47:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>164</user_id>
+		<book_id>366</book_id>
+		<buy_date>2018-04-04 13:33:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>165</user_id>
+		<book_id>743</book_id>
+		<buy_date>2018-07-08 01:42:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>165</user_id>
+		<book_id>762</book_id>
+		<buy_date>2018-04-19 16:53:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>165</user_id>
+		<book_id>868</book_id>
+		<buy_date>2018-05-13 20:08:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>165</user_id>
+		<book_id>1387</book_id>
+		<buy_date>2018-11-25 07:20:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>165</user_id>
+		<book_id>1394</book_id>
+		<buy_date>2018-03-08 11:20:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>166</user_id>
+		<book_id>1193</book_id>
+		<buy_date>2018-09-20 18:57:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>167</user_id>
+		<book_id>1395</book_id>
+		<buy_date>2018-07-29 00:20:51</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>168</user_id>
+		<book_id>384</book_id>
+		<buy_date>2018-04-25 00:52:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>168</user_id>
+		<book_id>677</book_id>
+		<buy_date>2018-10-29 15:56:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>168</user_id>
+		<book_id>1184</book_id>
+		<buy_date>2018-02-06 05:27:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>169</user_id>
+		<book_id>271</book_id>
+		<buy_date>2018-11-02 12:26:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>169</user_id>
+		<book_id>713</book_id>
+		<buy_date>2018-05-27 06:33:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>170</user_id>
+		<book_id>361</book_id>
+		<buy_date>2018-12-22 08:58:02</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>170</user_id>
+		<book_id>1190</book_id>
+		<buy_date>2018-03-01 22:44:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>171</user_id>
+		<book_id>741</book_id>
+		<buy_date>2018-01-09 02:06:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>171</user_id>
+		<book_id>1048</book_id>
+		<buy_date>2018-08-02 08:51:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>172</user_id>
+		<book_id>647</book_id>
+		<buy_date>2018-07-19 07:49:00</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>173</user_id>
+		<book_id>90</book_id>
+		<buy_date>2018-09-11 02:55:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>173</user_id>
+		<book_id>534</book_id>
+		<buy_date>2018-06-08 14:42:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>174</user_id>
+		<book_id>36</book_id>
+		<buy_date>2018-09-08 12:53:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>174</user_id>
+		<book_id>144</book_id>
+		<buy_date>2018-02-05 00:11:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>174</user_id>
+		<book_id>498</book_id>
+		<buy_date>2018-02-28 16:40:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>174</user_id>
+		<book_id>569</book_id>
+		<buy_date>2018-06-17 00:55:52</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>174</user_id>
+		<book_id>1216</book_id>
+		<buy_date>2018-08-02 22:54:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>177</user_id>
+		<book_id>688</book_id>
+		<buy_date>2018-06-26 12:11:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>177</user_id>
+		<book_id>797</book_id>
+		<buy_date>2018-10-12 02:35:31</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>177</user_id>
+		<book_id>873</book_id>
+		<buy_date>2018-01-19 19:27:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>178</user_id>
+		<book_id>106</book_id>
+		<buy_date>2018-07-23 10:30:31</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>178</user_id>
+		<book_id>968</book_id>
+		<buy_date>2018-09-02 13:46:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>179</user_id>
+		<book_id>1026</book_id>
+		<buy_date>2018-07-06 09:26:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>180</user_id>
+		<book_id>419</book_id>
+		<buy_date>2018-07-20 10:48:08</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>180</user_id>
+		<book_id>907</book_id>
+		<buy_date>2018-05-15 11:09:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>181</user_id>
+		<book_id>127</book_id>
+		<buy_date>2018-04-30 23:33:31</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>181</user_id>
+		<book_id>432</book_id>
+		<buy_date>2018-03-06 16:24:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>182</user_id>
+		<book_id>1250</book_id>
+		<buy_date>2018-06-18 05:59:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>184</user_id>
+		<book_id>252</book_id>
+		<buy_date>2018-03-23 03:41:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>185</user_id>
+		<book_id>958</book_id>
+		<buy_date>2018-03-15 19:27:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>185</user_id>
+		<book_id>1200</book_id>
+		<buy_date>2018-06-27 11:02:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>185</user_id>
+		<book_id>1231</book_id>
+		<buy_date>2018-05-27 20:27:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>186</user_id>
+		<book_id>369</book_id>
+		<buy_date>2018-11-08 14:26:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>186</user_id>
+		<book_id>657</book_id>
+		<buy_date>2018-01-15 00:27:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>188</user_id>
+		<book_id>1262</book_id>
+		<buy_date>2018-03-08 10:18:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>189</user_id>
+		<book_id>311</book_id>
+		<buy_date>2018-08-13 02:32:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>190</user_id>
+		<book_id>1359</book_id>
+		<buy_date>2018-07-12 00:59:02</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>191</user_id>
+		<book_id>334</book_id>
+		<buy_date>2018-04-27 10:02:29</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>192</user_id>
+		<book_id>266</book_id>
+		<buy_date>2018-10-19 03:35:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>193</user_id>
+		<book_id>517</book_id>
+		<buy_date>2018-06-15 19:57:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>193</user_id>
+		<book_id>771</book_id>
+		<buy_date>2018-10-09 21:37:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>193</user_id>
+		<book_id>1428</book_id>
+		<buy_date>2018-10-25 18:27:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>196</user_id>
+		<book_id>418</book_id>
+		<buy_date>2018-11-12 03:27:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>196</user_id>
+		<book_id>842</book_id>
+		<buy_date>2018-07-19 11:08:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>196</user_id>
+		<book_id>1072</book_id>
+		<buy_date>2018-08-03 10:42:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>198</user_id>
+		<book_id>285</book_id>
+		<buy_date>2018-05-05 11:14:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>198</user_id>
+		<book_id>1424</book_id>
+		<buy_date>2018-07-12 08:40:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>200</user_id>
+		<book_id>221</book_id>
+		<buy_date>2018-07-20 16:05:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>200</user_id>
+		<book_id>253</book_id>
+		<buy_date>2018-05-12 17:32:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>200</user_id>
+		<book_id>285</book_id>
+		<buy_date>2018-04-16 06:39:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>200</user_id>
+		<book_id>780</book_id>
+		<buy_date>2018-03-15 01:25:31</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>200</user_id>
+		<book_id>1378</book_id>
+		<buy_date>2018-05-15 16:30:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>203</user_id>
+		<book_id>620</book_id>
+		<buy_date>2018-11-12 13:41:03</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>203</user_id>
+		<book_id>1434</book_id>
+		<buy_date>2018-10-24 07:19:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>204</user_id>
+		<book_id>930</book_id>
+		<buy_date>2018-02-20 22:21:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>205</user_id>
+		<book_id>278</book_id>
+		<buy_date>2018-02-04 10:35:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>205</user_id>
+		<book_id>791</book_id>
+		<buy_date>2018-04-28 10:06:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>206</user_id>
+		<book_id>965</book_id>
+		<buy_date>2018-06-17 21:45:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>210</user_id>
+		<book_id>383</book_id>
+		<buy_date>2018-08-17 08:27:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>210</user_id>
+		<book_id>921</book_id>
+		<buy_date>2018-01-06 22:37:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>211</user_id>
+		<book_id>323</book_id>
+		<buy_date>2018-01-02 21:52:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>214</user_id>
+		<book_id>532</book_id>
+		<buy_date>2018-03-19 10:31:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>215</user_id>
+		<book_id>738</book_id>
+		<buy_date>2018-01-01 18:28:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>215</user_id>
+		<book_id>1320</book_id>
+		<buy_date>2018-01-24 08:20:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>216</user_id>
+		<book_id>732</book_id>
+		<buy_date>2018-01-01 17:47:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>216</user_id>
+		<book_id>1230</book_id>
+		<buy_date>2018-01-14 02:39:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>217</user_id>
+		<book_id>336</book_id>
+		<buy_date>2018-01-06 17:33:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>218</user_id>
+		<book_id>891</book_id>
+		<buy_date>2018-10-13 18:57:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>218</user_id>
+		<book_id>1019</book_id>
+		<buy_date>2018-04-25 11:57:31</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>219</user_id>
+		<book_id>732</book_id>
+		<buy_date>2018-01-04 01:43:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>219</user_id>
+		<book_id>1170</book_id>
+		<buy_date>2018-05-15 06:39:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>221</user_id>
+		<book_id>1234</book_id>
+		<buy_date>2018-09-10 06:37:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>222</user_id>
+		<book_id>171</book_id>
+		<buy_date>2018-07-11 05:15:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>222</user_id>
+		<book_id>938</book_id>
+		<buy_date>2018-09-02 01:08:13</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>223</user_id>
+		<book_id>340</book_id>
+		<buy_date>2018-01-01 01:27:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>223</user_id>
+		<book_id>1142</book_id>
+		<buy_date>2018-01-01 01:17:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>224</user_id>
+		<book_id>767</book_id>
+		<buy_date>2018-11-21 20:06:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>225</user_id>
+		<book_id>497</book_id>
+		<buy_date>2018-08-20 01:58:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>225</user_id>
+		<book_id>1254</book_id>
+		<buy_date>2018-07-27 09:01:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>226</user_id>
+		<book_id>297</book_id>
+		<buy_date>2018-09-05 22:20:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>226</user_id>
+		<book_id>598</book_id>
+		<buy_date>2018-09-26 11:45:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>226</user_id>
+		<book_id>863</book_id>
+		<buy_date>2018-07-16 20:09:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>226</user_id>
+		<book_id>1192</book_id>
+		<buy_date>2018-12-12 00:41:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>226</user_id>
+		<book_id>1441</book_id>
+		<buy_date>2018-04-28 11:56:09</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>227</user_id>
+		<book_id>710</book_id>
+		<buy_date>2018-08-18 15:27:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>227</user_id>
+		<book_id>1256</book_id>
+		<buy_date>2018-03-26 00:20:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>228</user_id>
+		<book_id>245</book_id>
+		<buy_date>2018-12-26 18:45:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>228</user_id>
+		<book_id>1436</book_id>
+		<buy_date>2018-04-01 04:23:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>229</user_id>
+		<book_id>1316</book_id>
+		<buy_date>2018-03-01 12:03:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>231</user_id>
+		<book_id>565</book_id>
+		<buy_date>2018-06-13 11:06:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>232</user_id>
+		<book_id>342</book_id>
+		<buy_date>2018-07-12 18:13:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>232</user_id>
+		<book_id>435</book_id>
+		<buy_date>2018-07-21 21:18:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>236</user_id>
+		<book_id>547</book_id>
+		<buy_date>2018-10-17 16:05:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>237</user_id>
+		<book_id>121</book_id>
+		<buy_date>2018-07-01 18:15:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>238</user_id>
+		<book_id>241</book_id>
+		<buy_date>2018-10-20 03:14:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>238</user_id>
+		<book_id>264</book_id>
+		<buy_date>2018-02-16 07:28:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>238</user_id>
+		<book_id>464</book_id>
+		<buy_date>2018-04-27 22:55:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>238</user_id>
+		<book_id>671</book_id>
+		<buy_date>2018-06-12 00:06:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>238</user_id>
+		<book_id>791</book_id>
+		<buy_date>2018-03-28 15:46:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>240</user_id>
+		<book_id>675</book_id>
+		<buy_date>2018-05-16 20:00:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>242</user_id>
+		<book_id>331</book_id>
+		<buy_date>2018-06-05 15:45:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>243</user_id>
+		<book_id>1319</book_id>
+		<buy_date>2018-06-01 00:47:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>244</user_id>
+		<book_id>618</book_id>
+		<buy_date>2018-10-19 18:12:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>244</user_id>
+		<book_id>1372</book_id>
+		<buy_date>2018-04-27 13:24:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>245</user_id>
+		<book_id>1130</book_id>
+		<buy_date>2018-08-04 22:45:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>247</user_id>
+		<book_id>1271</book_id>
+		<buy_date>2018-04-12 23:44:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>248</user_id>
+		<book_id>705</book_id>
+		<buy_date>2018-07-19 19:40:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>248</user_id>
+		<book_id>806</book_id>
+		<buy_date>2018-07-04 15:58:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>248</user_id>
+		<book_id>1336</book_id>
+		<buy_date>2018-11-22 02:22:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>249</user_id>
+		<book_id>614</book_id>
+		<buy_date>2018-01-29 18:10:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>249</user_id>
+		<book_id>648</book_id>
+		<buy_date>2018-09-28 02:24:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>249</user_id>
+		<book_id>773</book_id>
+		<buy_date>2018-11-21 12:13:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>249</user_id>
+		<book_id>1189</book_id>
+		<buy_date>2018-04-29 10:28:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>249</user_id>
+		<book_id>1425</book_id>
+		<buy_date>2018-05-27 22:38:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>250</user_id>
+		<book_id>1058</book_id>
+		<buy_date>2018-01-17 18:52:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>251</user_id>
+		<book_id>673</book_id>
+		<buy_date>2018-12-27 15:47:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>251</user_id>
+		<book_id>1190</book_id>
+		<buy_date>2018-11-14 18:32:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>252</user_id>
+		<book_id>56</book_id>
+		<buy_date>2018-04-01 15:38:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>252</user_id>
+		<book_id>699</book_id>
+		<buy_date>2018-08-11 21:15:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>253</user_id>
+		<book_id>1397</book_id>
+		<buy_date>2018-03-09 13:49:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>254</user_id>
+		<book_id>67</book_id>
+		<buy_date>2018-03-15 19:52:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>255</user_id>
+		<book_id>1045</book_id>
+		<buy_date>2018-11-17 23:06:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>255</user_id>
+		<book_id>1319</book_id>
+		<buy_date>2018-09-29 22:25:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>256</user_id>
+		<book_id>578</book_id>
+		<buy_date>2018-08-05 04:49:03</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>256</user_id>
+		<book_id>656</book_id>
+		<buy_date>2018-02-12 11:43:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>257</user_id>
+		<book_id>91</book_id>
+		<buy_date>2018-04-06 05:50:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>257</user_id>
+		<book_id>476</book_id>
+		<buy_date>2018-11-12 12:00:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>258</user_id>
+		<book_id>92</book_id>
+		<buy_date>2018-11-10 05:56:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>258</user_id>
+		<book_id>484</book_id>
+		<buy_date>2018-07-13 11:47:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>258</user_id>
+		<book_id>557</book_id>
+		<buy_date>2018-11-24 21:16:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>258</user_id>
+		<book_id>988</book_id>
+		<buy_date>2018-03-22 18:22:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>259</user_id>
+		<book_id>500</book_id>
+		<buy_date>2018-10-03 09:02:29</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>260</user_id>
+		<book_id>96</book_id>
+		<buy_date>2018-07-17 12:24:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>260</user_id>
+		<book_id>549</book_id>
+		<buy_date>2018-02-18 18:14:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>260</user_id>
+		<book_id>1124</book_id>
+		<buy_date>2018-10-05 05:42:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>261</user_id>
+		<book_id>225</book_id>
+		<buy_date>2018-03-30 22:50:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>261</user_id>
+		<book_id>258</book_id>
+		<buy_date>2018-03-14 02:43:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>262</user_id>
+		<book_id>114</book_id>
+		<buy_date>2018-07-03 04:22:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>263</user_id>
+		<book_id>1248</book_id>
+		<buy_date>2018-10-07 06:47:42</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>264</user_id>
+		<book_id>481</book_id>
+		<buy_date>2018-04-09 04:22:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>265</user_id>
+		<book_id>264</book_id>
+		<buy_date>2018-04-25 04:11:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>266</user_id>
+		<book_id>5</book_id>
+		<buy_date>2018-06-25 00:49:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>266</user_id>
+		<book_id>985</book_id>
+		<buy_date>2018-02-26 06:03:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>267</user_id>
+		<book_id>1009</book_id>
+		<buy_date>2018-08-19 12:15:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>269</user_id>
+		<book_id>363</book_id>
+		<buy_date>2018-10-03 11:56:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>269</user_id>
+		<book_id>1083</book_id>
+		<buy_date>2018-05-23 05:55:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>270</user_id>
+		<book_id>946</book_id>
+		<buy_date>2018-12-28 05:06:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>270</user_id>
+		<book_id>1367</book_id>
+		<buy_date>2018-01-16 09:20:00</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>271</user_id>
+		<book_id>833</book_id>
+		<buy_date>2018-06-11 15:30:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>272</user_id>
+		<book_id>557</book_id>
+		<buy_date>2018-09-30 15:05:00</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>272</user_id>
+		<book_id>904</book_id>
+		<buy_date>2018-04-24 17:01:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>272</user_id>
+		<book_id>1198</book_id>
+		<buy_date>2018-04-23 15:58:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>274</user_id>
+		<book_id>506</book_id>
+		<buy_date>2018-10-13 20:39:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>277</user_id>
+		<book_id>376</book_id>
+		<buy_date>2018-05-09 03:31:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>277</user_id>
+		<book_id>928</book_id>
+		<buy_date>2018-12-14 01:40:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>278</user_id>
+		<book_id>595</book_id>
+		<buy_date>2018-06-23 21:23:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>278</user_id>
+		<book_id>735</book_id>
+		<buy_date>2018-11-30 11:09:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>278</user_id>
+		<book_id>1023</book_id>
+		<buy_date>2018-07-19 18:34:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>280</user_id>
+		<book_id>708</book_id>
+		<buy_date>2018-01-25 10:37:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>280</user_id>
+		<book_id>1140</book_id>
+		<buy_date>2018-10-28 01:21:34</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>280</user_id>
+		<book_id>1150</book_id>
+		<buy_date>2018-07-03 13:16:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>281</user_id>
+		<book_id>1344</book_id>
+		<buy_date>2018-01-22 03:33:29</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>283</user_id>
+		<book_id>362</book_id>
+		<buy_date>2018-04-09 17:45:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>284</user_id>
+		<book_id>607</book_id>
+		<buy_date>2018-06-10 01:30:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>285</user_id>
+		<book_id>817</book_id>
+		<buy_date>2018-06-10 07:30:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>285</user_id>
+		<book_id>1069</book_id>
+		<buy_date>2018-12-08 15:27:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>285</user_id>
+		<book_id>1137</book_id>
+		<buy_date>2018-05-12 09:07:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>286</user_id>
+		<book_id>15</book_id>
+		<buy_date>2018-12-30 10:42:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>286</user_id>
+		<book_id>1405</book_id>
+		<buy_date>2018-04-08 11:23:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>287</user_id>
+		<book_id>656</book_id>
+		<buy_date>2018-08-09 21:44:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>288</user_id>
+		<book_id>733</book_id>
+		<buy_date>2018-06-27 07:11:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>289</user_id>
+		<book_id>915</book_id>
+		<buy_date>2018-08-26 03:54:56</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>289</user_id>
+		<book_id>1100</book_id>
+		<buy_date>2018-05-04 12:17:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>289</user_id>
+		<book_id>1132</book_id>
+		<buy_date>2018-06-19 15:47:50</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>290</user_id>
+		<book_id>942</book_id>
+		<buy_date>2018-12-25 05:40:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>291</user_id>
+		<book_id>731</book_id>
+		<buy_date>2018-02-21 01:37:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>291</user_id>
+		<book_id>1179</book_id>
+		<buy_date>2018-08-01 15:53:55</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>291</user_id>
+		<book_id>1243</book_id>
+		<buy_date>2018-04-07 03:25:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>292</user_id>
+		<book_id>691</book_id>
+		<buy_date>2018-10-20 19:31:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>292</user_id>
+		<book_id>1076</book_id>
+		<buy_date>2018-12-08 15:23:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>293</user_id>
+		<book_id>1115</book_id>
+		<buy_date>2018-08-07 22:40:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>295</user_id>
+		<book_id>859</book_id>
+		<buy_date>2018-03-14 05:58:03</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>295</user_id>
+		<book_id>1278</book_id>
+		<buy_date>2018-11-16 00:00:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>296</user_id>
+		<book_id>627</book_id>
+		<buy_date>2018-08-19 02:58:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>297</user_id>
+		<book_id>204</book_id>
+		<buy_date>2018-02-16 06:51:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>298</user_id>
+		<book_id>1451</book_id>
+		<buy_date>2018-09-12 08:29:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>299</user_id>
+		<book_id>613</book_id>
+		<buy_date>2018-11-18 13:35:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>299</user_id>
+		<book_id>661</book_id>
+		<buy_date>2018-01-18 07:40:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>299</user_id>
+		<book_id>920</book_id>
+		<buy_date>2018-04-29 22:26:41</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>302</user_id>
+		<book_id>445</book_id>
+		<buy_date>2018-02-27 07:16:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>303</user_id>
+		<book_id>1017</book_id>
+		<buy_date>2018-05-26 22:48:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>304</user_id>
+		<book_id>65</book_id>
+		<buy_date>2018-12-26 15:13:10</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>304</user_id>
+		<book_id>618</book_id>
+		<buy_date>2018-06-11 23:07:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>305</user_id>
+		<book_id>1255</book_id>
+		<buy_date>2018-03-04 00:58:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>306</user_id>
+		<book_id>1209</book_id>
+		<buy_date>2018-11-11 15:55:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>307</user_id>
+		<book_id>319</book_id>
+		<buy_date>2018-02-14 04:14:38</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>307</user_id>
+		<book_id>592</book_id>
+		<buy_date>2018-01-17 15:34:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>307</user_id>
+		<book_id>667</book_id>
+		<buy_date>2018-05-17 05:47:01</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>307</user_id>
+		<book_id>976</book_id>
+		<buy_date>2018-03-19 19:34:57</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>308</user_id>
+		<book_id>994</book_id>
+		<buy_date>2018-05-22 13:39:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>310</user_id>
+		<book_id>51</book_id>
+		<buy_date>2018-01-28 08:45:04</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>310</user_id>
+		<book_id>185</book_id>
+		<buy_date>2018-08-01 08:52:19</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>310</user_id>
+		<book_id>1148</book_id>
+		<buy_date>2018-10-11 09:20:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>310</user_id>
+		<book_id>1156</book_id>
+		<buy_date>2018-06-12 19:40:48</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>311</user_id>
+		<book_id>933</book_id>
+		<buy_date>2018-12-01 08:06:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>312</user_id>
+		<book_id>670</book_id>
+		<buy_date>2018-07-24 10:24:45</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>313</user_id>
+		<book_id>734</book_id>
+		<buy_date>2018-01-20 20:49:30</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>314</user_id>
+		<book_id>732</book_id>
+		<buy_date>2018-07-12 16:10:26</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>314</user_id>
+		<book_id>829</book_id>
+		<buy_date>2018-02-25 08:48:47</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>315</user_id>
+		<book_id>789</book_id>
+		<buy_date>2018-12-10 18:37:43</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>316</user_id>
+		<book_id>347</book_id>
+		<buy_date>2018-08-02 04:51:00</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>316</user_id>
+		<book_id>895</book_id>
+		<buy_date>2018-11-20 14:22:46</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>317</user_id>
+		<book_id>556</book_id>
+		<buy_date>2018-01-08 12:16:05</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>317</user_id>
+		<book_id>695</book_id>
+		<buy_date>2018-04-24 22:32:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>318</user_id>
+		<book_id>1245</book_id>
+		<buy_date>2018-11-15 04:11:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>319</user_id>
+		<book_id>241</book_id>
+		<buy_date>2018-04-17 08:33:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>319</user_id>
+		<book_id>830</book_id>
+		<buy_date>2018-05-29 17:29:22</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>320</user_id>
+		<book_id>180</book_id>
+		<buy_date>2018-01-01 02:19:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>320</user_id>
+		<book_id>538</book_id>
+		<buy_date>2018-12-15 13:21:27</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>320</user_id>
+		<book_id>937</book_id>
+		<buy_date>2018-10-03 17:32:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>321</user_id>
+		<book_id>885</book_id>
+		<buy_date>2018-12-13 07:50:00</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>323</user_id>
+		<book_id>87</book_id>
+		<buy_date>2018-07-07 00:08:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>324</user_id>
+		<book_id>8</book_id>
+		<buy_date>2018-12-24 10:50:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>325</user_id>
+		<book_id>798</book_id>
+		<buy_date>2018-01-08 13:48:13</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>325</user_id>
+		<book_id>1102</book_id>
+		<buy_date>2018-12-10 11:15:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>326</user_id>
+		<book_id>821</book_id>
+		<buy_date>2018-12-15 21:39:18</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>327</user_id>
+		<book_id>232</book_id>
+		<buy_date>2018-09-04 06:25:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>327</user_id>
+		<book_id>668</book_id>
+		<buy_date>2018-10-13 04:06:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>329</user_id>
+		<book_id>416</book_id>
+		<buy_date>2018-11-15 03:42:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>329</user_id>
+		<book_id>629</book_id>
+		<buy_date>2018-02-23 15:55:02</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>329</user_id>
+		<book_id>725</book_id>
+		<buy_date>2018-01-12 23:09:14</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>329</user_id>
+		<book_id>1389</book_id>
+		<buy_date>2018-08-29 07:36:20</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>330</user_id>
+		<book_id>23</book_id>
+		<buy_date>2018-09-12 20:03:21</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>330</user_id>
+		<book_id>28</book_id>
+		<buy_date>2018-07-30 02:51:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>333</user_id>
+		<book_id>1263</book_id>
+		<buy_date>2018-07-19 00:37:54</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>333</user_id>
+		<book_id>1313</book_id>
+		<buy_date>2018-09-25 06:03:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>334</user_id>
+		<book_id>1309</book_id>
+		<buy_date>2018-05-05 13:53:39</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>335</user_id>
+		<book_id>801</book_id>
+		<buy_date>2018-06-07 11:25:15</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>337</user_id>
+		<book_id>634</book_id>
+		<buy_date>2018-03-11 03:28:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>337</user_id>
+		<book_id>769</book_id>
+		<buy_date>2018-11-23 10:15:24</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>337</user_id>
+		<book_id>790</book_id>
+		<buy_date>2018-01-13 17:59:28</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>338</user_id>
+		<book_id>816</book_id>
+		<buy_date>2018-05-15 08:43:11</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>339</user_id>
+		<book_id>260</book_id>
+		<buy_date>2018-02-18 02:02:33</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>339</user_id>
+		<book_id>324</book_id>
+		<buy_date>2018-09-12 05:11:17</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>340</user_id>
+		<book_id>518</book_id>
+		<buy_date>2018-03-12 05:22:36</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>342</user_id>
+		<book_id>268</book_id>
+		<buy_date>2018-03-26 17:02:12</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>342</user_id>
+		<book_id>645</book_id>
+		<buy_date>2018-01-22 11:36:40</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>342</user_id>
+		<book_id>1195</book_id>
+		<buy_date>2018-12-14 12:39:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>342</user_id>
+		<book_id>1257</book_id>
+		<buy_date>2018-10-25 15:04:25</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>343</user_id>
+		<book_id>1187</book_id>
+		<buy_date>2018-08-12 13:06:07</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>344</user_id>
+		<book_id>246</book_id>
+		<buy_date>2018-10-02 03:49:35</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>345</user_id>
+		<book_id>5</book_id>
+		<buy_date>2018-04-12 10:45:23</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>345</user_id>
+		<book_id>605</book_id>
+		<buy_date>2018-10-30 08:07:49</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>345</user_id>
+		<book_id>1180</book_id>
+		<buy_date>2018-03-27 08:23:59</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>346</user_id>
+		<book_id>155</book_id>
+		<buy_date>2018-10-25 17:58:44</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>347</user_id>
+		<book_id>946</book_id>
+		<buy_date>2018-03-27 20:10:16</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>348</user_id>
+		<book_id>1276</book_id>
+		<buy_date>2018-09-27 02:30:06</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>348</user_id>
+		<book_id>1363</book_id>
+		<buy_date>2018-02-04 09:03:53</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>348</user_id>
+		<book_id>1415</book_id>
+		<buy_date>2018-04-16 22:22:37</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>349</user_id>
+		<book_id>321</book_id>
+		<buy_date>2018-12-03 02:46:32</buy_date>
+	</purchase>
+	<purchase>
+		<user_id>349</user_id>
+		<book_id>1120</book_id>
+		<buy_date>2018-11-22 05:32:16</buy_date>
+	</purchase>
+</purchases>
